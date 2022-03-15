@@ -1,0 +1,31 @@
+form {
+    background-color: gray;
+    width: 300px;
+    height: 44px;
+    border-radius: 5px;
+    display: flow;
+    flex-direction: column;
+    align-items: center;
+
+}
+input {
+    all: unset;
+    font: 16px system-ui;
+    color: blue;
+    height: 100%;
+    width: 100%;
+    padding: 6px 10px;
+}button {
+     all: unset;
+     cursor: pointer;
+     width: 44px;
+     height: 44px;
+ }
+
+svg {
+    color: #fff;
+    fill: currentColor;
+    width: 24px;
+    height: 24px;
+    padding: 10px;
+}
